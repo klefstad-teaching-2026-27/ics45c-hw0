@@ -1,0 +1,11 @@
+build/
+build_valgrind/
+.cache/
+*.o
+*.class
+.DS_Store
+.vscode/
+.idea/
+*.swp
+.coursetools/queue/
+.coursetools/off
